@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AoleYou20170907.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>995CA4E5A9415FD550CBFD86C33F667864E54BFD</string>
+				<key>dateExpires</key>
+				<string>2020/1/20</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>46FR337Q9R.com.my.MiYuan</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>46FR337Q9R</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>AoleYou20170907.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3d6aca1a-2b05-4cb1-84d6-7092d1c023d6</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.my.MiYuan</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>46FR337Q9R</string>
+				<key>name</key>
+				<string>Honey Source (Guangzhou) New Media Technology Co.,Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
