@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>图片地址57x57</string>
+					<string>https://github.com/shenLaiMango/miyuan_download/blob/master/Miyuanapp/icon-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>图片地址512x512</string>
+					<string>https://github.com/shenLaiMango/miyuan_download/blob/master/Miyuanapp/icon-512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
